@@ -47,4 +47,4 @@ A modern Android application built with **Jetpack Compose** to help users plan w
 1. Clone the repository:
 
 ```bash
-
+https://github.com/kdhyani200/weddingplannerapp.git
